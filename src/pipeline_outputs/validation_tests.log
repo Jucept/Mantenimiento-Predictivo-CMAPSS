@@ -1,0 +1,21 @@
+2025-11-23T18:40:08.312396 - RUL SANITY PASS
+2025-11-23T18:44:12.661363 - RUL SANITY PASS
+2025-11-23T18:44:12.666953 - SCALER ROUNDTRIP PASS
+2025-11-23T18:44:12.671581 - CAUSALITY TEST FAIL: [{'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's1_rm_5', 'expected': 518.67, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's1_rm_20', 'expected': 518.67, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's5_rm_5', 'expected': 14.62, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's5_rm_20', 'expected': 14.62, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's10_rm_5', 'expected': 1.3, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's10_rm_20', 'expected': 1.3000000000000003, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's16_rm_5', 'expected': 0.03, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's16_rm_20', 'expected': 0.030000000000000006, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's18_rm_5', 'expected': 2388.0, 'actual': nan}, {'idx': 19106, 'unit': 94, 'cycle': 96, 'feature': 's18_rm_20', 'expected': 2388.0, 'actual': nan}]
+2025-11-23T18:46:17.836146 - RUL SANITY PASS
+2025-11-23T18:46:17.845413 - SCALER ROUNDTRIP PASS
+2025-11-23T18:46:17.850862 - CAUSALITY TEST FAIL (count=10):
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s1_rm_5", "expected": 518.67, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s1_rm_20", "expected": 518.67, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s5_rm_5", "expected": 14.62, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s5_rm_20", "expected": 14.62, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s10_rm_5", "expected": 1.3, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s10_rm_20", "expected": 1.3000000000000003, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s16_rm_5", "expected": 0.03, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s16_rm_20", "expected": 0.030000000000000006, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s18_rm_5", "expected": 2388.0, "actual": null, "abs_diff": null}
+{"idx": 19106, "unit": 94, "cycle": 96, "feature": "s18_rm_20", "expected": 2388.0, "actual": null, "abs_diff": null}
+2025-11-23T18:55:01.987437 - RUL SANITY PASS
+2025-11-23T18:55:01.994414 - SCALER ROUNDTRIP PASS
+2025-11-23T23:14:37.916099 - RUL SANITY PASS
+2025-11-23T23:14:37.922074 - SCALER ROUNDTRIP PASS

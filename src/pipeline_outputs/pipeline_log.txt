@@ -1,0 +1,51 @@
+2025-11-23T18:39:42.072617 - Starting fit_transform_train (FAST_MODE=True)
+2025-11-23T18:39:42.415855 - Loaded train shape (20631, 26)
+2025-11-23T18:39:42.419131 - RUL range (0, 361)
+2025-11-23T18:39:42.758578 - Winsorization done; sample counts {'s1': 0, 's2': 394, 's3': 414, 's4': 414, 's5': 0}
+2025-11-23T18:39:42.775810 - Scaler fitted and saved to pipeline_outputs\scaler.pkl
+2025-11-23T18:40:08.069511 - Features saved count=149
+2025-11-23T18:40:08.309556 - Saved X_train.parquet and y_train.parquet
+2025-11-23T18:40:08.311246 - Metadata saved
+2025-11-23T18:40:08.314850 - Validation error: "['s1', 's5', 's10', 's16', 's18', 's19'] not in index"
+2025-11-23T18:43:47.524121 - Starting fit_transform_train (FAST_MODE=True)
+2025-11-23T18:43:47.784092 - Loaded train shape (20631, 26)
+2025-11-23T18:43:47.788469 - RUL range (0, 361)
+2025-11-23T18:43:48.034435 - Winsorization done; sample counts {'s1': 0, 's2': 394, 's3': 414, 's4': 414, 's5': 0}
+2025-11-23T18:43:48.044301 - Scaler fitted and saved to pipeline_outputs\scaler.pkl
+2025-11-23T18:44:12.439755 - Features saved count=149
+2025-11-23T18:44:12.658849 - Saved X_train.parquet and y_train.parquet
+2025-11-23T18:44:12.660544 - Metadata saved
+2025-11-23T18:44:12.672019 - Validation error: Causality test failed; see validation log
+2025-11-23T18:45:50.949676 - Starting fit_transform_train (FAST_MODE=True)
+2025-11-23T18:45:51.217448 - Loaded train shape (20631, 26)
+2025-11-23T18:45:51.220735 - RUL range (0, 361)
+2025-11-23T18:45:51.518658 - Winsorization done; sample counts {'s1': 0, 's2': 394, 's3': 414, 's4': 414, 's5': 0}
+2025-11-23T18:45:51.529967 - Scaler fitted and saved to pipeline_outputs\scaler.pkl
+2025-11-23T18:46:17.612421 - Features saved count=149
+2025-11-23T18:46:17.833737 - Saved X_train.parquet and y_train.parquet
+2025-11-23T18:46:17.835363 - Metadata saved
+2025-11-23T18:46:17.851109 - Validation error: Causality test failed; see validation log
+2025-11-23T18:54:34.956890 - Starting fit_transform_train (FAST_MODE=True)
+2025-11-23T18:54:35.243350 - Loaded train shape (20631, 26)
+2025-11-23T18:54:35.247103 - RUL range (0, 361)
+2025-11-23T18:54:35.556903 - Winsorization done; sample counts {'s1': 0, 's2': 394, 's3': 414, 's4': 414, 's5': 0}
+2025-11-23T18:54:35.566388 - Scaler fitted and saved to pipeline_outputs\scaler.pkl
+2025-11-23T18:55:01.751429 - Features saved count=149
+2025-11-23T18:55:01.985048 - Saved X_train.parquet and y_train.parquet
+2025-11-23T18:55:01.986650 - Metadata saved
+2025-11-23T18:55:02.075084 - fit_transform_train completed in 27.117813 seconds
+2025-11-23T18:55:02.082382 - Starting transform_test
+2025-11-23T18:55:19.452010 - Saved X_test.parquet
+2025-11-23T18:55:19.453853 - transform_test completed
+2025-11-23T23:13:49.558218 - Starting fit_transform_train (FAST_MODE=True)
+2025-11-23T23:13:49.825139 - Loaded train shape (20631, 26)
+2025-11-23T23:13:49.828545 - RUL range (0, 361)
+2025-11-23T23:13:50.076941 - Winsorization done; sample counts {'s1': 0, 's2': 394, 's3': 414, 's4': 414, 's5': 0}
+2025-11-23T23:13:50.087738 - Scaler fitted and saved to pipeline_outputs\scaler.pkl
+2025-11-23T23:14:37.503312 - Features saved count=266
+2025-11-23T23:14:37.913602 - Saved X_train.parquet and y_train.parquet
+2025-11-23T23:14:37.915308 - Metadata saved
+2025-11-23T23:14:38.040780 - fit_transform_train completed in 48.482124 seconds
+2025-11-23T23:14:38.075193 - Starting transform_test
+2025-11-23T23:15:10.594282 - Saved X_test.parquet
+2025-11-23T23:15:10.596117 - transform_test completed
